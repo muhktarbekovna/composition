@@ -1,0 +1,10 @@
+.comment-date {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(8, 3, 56);
+    padding: 20px;
+    box-shadow: 2px 2px 4px rgb(2, 2, 64);
+}
